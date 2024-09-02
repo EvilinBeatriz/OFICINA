@@ -19963,6 +19963,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Next Level
       objectReference: {fileID: 0}
+    - target: {fileID: 6539863820987926922, guid: b1338caeb7968c748bebb30fe54431c5, type: 3}
+      propertyPath: lvlName
+      value: Fase_2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
